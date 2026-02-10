@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Model weights
+*.pt
+
+# Output images
+output.jpg
+
+# OS junk
+.DS_Store
+Thumbs.db
