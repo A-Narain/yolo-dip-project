@@ -1,7 +1,23 @@
+
 dataset/
+
+
 *.jpg
 *.png
 *.avi
+*.mp4
+
+# ML models
 *.pt
 *.weights
-*.mp4
+
+
+test_output/
+test_videos/
+
+# allow code
+!*.cpp
+!*.h
+!*.py
+!*.js
+!*.ts
