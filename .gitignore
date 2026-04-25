@@ -1,23 +1,22 @@
-
+# dataset
 dataset/
+
+# videos
+*.mp4
+*.avi
 
 
 *.jpg
 *.png
-*.avi
-*.mp4
 
-# ML models
+# model weights
 *.pt
 *.weights
 
-
+# outputs
+runs/
+output/
 test_output/
-test_videos/
 
-# allow code
-!*.cpp
-!*.h
-!*.py
-!*.js
-!*.ts
+# misc
+__pycache__/
