@@ -1,0 +1,7 @@
+dataset/
+*.jpg
+*.png
+*.avi
+*.pt
+*.weights
+*.mp4
